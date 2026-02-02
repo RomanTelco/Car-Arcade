@@ -1,0 +1,13 @@
+Requirements:
+Videojuego: Car Arcade
+Autor: Roman
+S.O : Windows
+
+Pygame = 2.5.2
+numpy = 1.24.3
+pillow = 10.0.0
+pydub = 0.25.1
+
+Instalation:
+pip install pygame
+python CarArcade.py
