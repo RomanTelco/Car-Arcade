@@ -1,5 +1,5 @@
 Requirements:
-Videojuego: Car Arcade
+Videojuego: Shooter Arcade
 Autor: Roman
 S.O : Windows
 
@@ -10,4 +10,4 @@ pydub = 0.25.1
 
 Instalation:
 pip install pygame
-python CarArcade.py
+python ShooterArcade.py
